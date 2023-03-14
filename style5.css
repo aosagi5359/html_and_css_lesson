@@ -1,0 +1,14 @@
+
+section + section {
+    border: 1px solid red;
+}
+
+
+/*
+section + section + section {
+    background-color: green;
+}
+*/
+#contents > section + section {
+    background-color: lightblue;
+}
